@@ -1,6 +1,6 @@
 This project was prepared for the 2023-2024 Data Mining and Business Intelligence course at Istanbul Medipol University's Management Information Systems Department.
-The "Top 1000 IMDb Movies Dataset," which consists of the most famous and beloved films rated and ranked by IMDb users, was downloaded from Kaggle.
-"https://www.kaggle.com/datasets/inductiveanks/top-1000-imdb-movies-dataset"
+
+The "Top 1000 IMDb Movies Dataset," which consists of the most famous and beloved films rated and ranked by IMDb users, was downloaded from Kaggle. "https://www.kaggle.com/datasets/inductiveanks/top-1000-imdb-movies-dataset"
 
 1. Data Loading and Preview
 At the start of the project, the dataset was downloaded and uploaded to the KNIME platform. The CSV Reader node was used to import the dataset into KNIME. Once the dataset was loaded, the data was reviewed, and the columns (such as movie name, year, IMDb rating, genre, director, actors, etc.) were examined. During this stage, the general structure and quality control of the data were performed.
